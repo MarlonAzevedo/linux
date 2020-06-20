@@ -1,0 +1,8 @@
+﻿Como instalar o mesa driver?
+
+Para instalar o Kisak PPA simplesmente copie e cole o comando abaixo no seu terminal.  
+Ubuntu e derivados:
+sudo apt-add-repository ppa:kisak/kisak-mesa -y && sudo apt update && sudo apt upgrade -y
+Agora é recomendável que você reinicie o seu sistema, e pronto!  
+
+
